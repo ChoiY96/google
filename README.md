@@ -50,6 +50,7 @@
 
 6. **选择关键词**（搜索广告必填），输入与你的业务/产品相关的关键词  
 7. **填写落地页网址**，确保能正常访问  
+![GG01](https://github.com/ChoiY96/google/raw/main/GG01.png)
 
 ---
 
@@ -58,7 +59,7 @@
 1. 进入“结算”页面  
 2. 填写 EasyPay 虚拟卡信息（卡号/有效期/CVV 等）  
 3. 验证付款方式是否可用  
-
+![GG02](https://github.com/ChoiY96/google/raw/main/GG02.png)
 ---
 
 ## 五、提交审核
